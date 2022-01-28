@@ -1,2 +1,2 @@
-# defnotcheat
-defnotcheat
+We no cheat here
+just good
