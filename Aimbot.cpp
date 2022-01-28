@@ -29,3 +29,9 @@ bool HasFlag(int flag, int state)
 {
 	return (state & (int)flag) == (int)flag;
 }
+
+bool isTargetableEntity(Entity player) {
+	BYTE State;
+	if (player
+		)
+}
