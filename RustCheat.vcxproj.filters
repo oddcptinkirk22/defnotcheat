@@ -25,4 +25,9 @@
       <Filter>Cheat</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aimbot.h">
+      <Filter>Cheat</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
