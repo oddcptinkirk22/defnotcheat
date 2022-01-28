@@ -1,2 +1,1 @@
-# defnotcheat
-defnotcheat
+LOl you are gay
